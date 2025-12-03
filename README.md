@@ -26,15 +26,21 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 
 ### 📂 Projetos em Destaque
 
-| Projeto | Descrição | Tech Stack |
+| Projeto | Descrição Técnica | Tech Stack |
 | :--- | :--- | :--- |
-| **ContGest** | ERP completo para escritórios contábeis. | Python (Flask), React, PostgreSQL |
-| **MedControl** | App mobile para gerenciamento de medicamentos. | React Native, Flask, MySQL |
-| **OfficePro** | Simulador e sistema de gestão empresarial. | Python, React, Tailwind |
+| **ContGest** | Sistema web para **gestão de prestações de serviço** em empresas de contabilidade. Apresentado no XVIII CONINCE. | 🐍 Flask, ⚛️ React, 🐘 PostgreSQL |
+| **MedControl** | Aplicação Web Mobile para gestão de dependentes, **controle de estoque** e consumo de medicamentos. | 📱 React Native, 🐍 Flask, 🐬 MySQL |
+| **OfficePro** | Simulador e sistema de gestão empresarial. |🐍 Flask, ⚛️ React, Tailwind |
+| **Extrator Domínio** | Automação para **extração e manipulação de extratos (TXT)** visando a importação no ERP Domínio Sistemas. | 🐍 Python, Regex, Manipulação de Arquivos |
+| **Translation Middleware** | Middleware para integração transparente e **escalável** de APIs multilíngues. Foco em arquitetura de microsserviços. | 🐍 Python, APIs REST, Docker |
 
-🏆 **Conquista:** 2º Lugar no Hackaton 2024 (Solução Web com React/Node.js).
+🏆 **Reconhecimentos e Prêmios:**
+* **2º Lugar - Hackaton 2024:** Solução Web Full Stack.
+* **3º Lugar - II Edutech (2025):** Destaque por inovação tecnológica.
+* **Aprovações no XVIII CONINCE:** 4 trabalhos técnicos aceitos e apresentados em congresso científico.
 
 ---
+
 ### 🎓 Formação Acadêmica
 
 * **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Uneduvale (2023 - 2025)
