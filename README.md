@@ -35,7 +35,24 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 🏆 **Conquista:** 2º Lugar no Hackaton 2024 (Solução Web com React/Node.js).
 
 ---
+### 🎓 Formação Acadêmica
 
+* **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Uneduvale (2023 - 2025)
+* **Técnico em Manutenção e Suporte em Informática** | ETEC (2021 - 2022)
+
+---
+
+### 📜 Licenças e Certificados
+
+| Curso/Evento | Instituição | Competências |
+| :--- | :--- | :--- |
+| **Python: Avançando na Orientação a Objetos** | Alura | Backend, POO, APIs |
+| **Flask: Crie uma WebApp com Python** | Alura | Desenvolvimento Web, Rotas |
+| **Visão Computacional (OCR e OpenCV)** | Alura | Processamento de Imagens, IA |
+| **DevOps: Tráfego Seguro e Comunicação Web** | Alura | Segurança, Infraestrutura |
+| **Metodologias Ágeis (XVIII CONINCE)** | Event3 | Scrum, Gestão de Projetos |
+
+---
 ### 📊 Estatísticas do GitHub
 
 ![Snake animation](https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg)
