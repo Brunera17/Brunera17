@@ -37,19 +37,11 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 ---
 
 ### 📊 Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunera17&layout=compact&theme=dracula"/>
-  </a>
-</div>
-<div>
-<a href="https://github.com/Brunera17">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunera17&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
----
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunera17&layout=compact&theme=dracula)
+
+---
 ### 📫 Contato
 <div>
   <a href="https://instagram.com/" target="_blank">
