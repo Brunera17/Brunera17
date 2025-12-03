@@ -1,80 +1,103 @@
-# 👋 Olá! Eu sou Bruno David Martins ("Brunera")
+<div align="center">
+  <h1>👋 Olá, sou Bruno David Martins!</h1>
+  <h3><i>Também conhecido como "Brunera"</i></h3>
+  
+  <p>
+    <b>🚀 Desenvolvedor Full Stack | Python & React</b><br/>
+    <i>"Transformando café em código eficiente e escalável."</i>
+  </p>
 
-### 🚀 Desenvolvedor Full Stack | Python & React
-**Estudante de Análise e Desenvolvimento de Sistemas**
-
-Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3 anos de experiência** no desenvolvimento de APIs REST, serviços back-end e otimização de consultas SQL. Atualmente, foco em arquitetura back-end e boas práticas de código.
-
----
-**Back-end:**
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="40" height="40"/>
-
-**Front-end:**
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
-
-**Ferramentas:**
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-**Aprendendo**
-
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="40" height="40"/>
-
----
-
-### 📂 Projetos em Destaque
-
-| Projeto | Descrição Técnica | Tech Stack |
-| :--- | :--- | :--- |
-| **ContGest** | Sistema web para **gestão de prestações de serviço** em empresas de contabilidade. Apresentado no XVIII CONINCE. | 🐍 Flask, ⚛️ React, 🐘 PostgreSQL |
-| **MedControl** | Aplicação Web Mobile para gestão de dependentes, **controle de estoque** e consumo de medicamentos. | 📱 React Native, 🐍 Flask, 🐬 MySQL |
-| **OfficePro** | Simulador e sistema de gestão empresarial. |🐍 Flask, ⚛️ React, Tailwind |
-| **Extrator Domínio** | Automação para **extração e manipulação de extratos (TXT)** visando a importação no ERP Domínio Sistemas. | 🐍 Python, Regex, Manipulação de Arquivos |
-| **Translation Middleware** | Middleware para integração transparente e **escalável** de APIs multilíngues. Foco em arquitetura de microsserviços. | 🐍 Python, APIs REST, Docker |
-
-🏆 **Reconhecimentos e Prêmios:**
-* **2º Lugar - Hackaton 2024:** Solução Web Full Stack.
-* **3º Lugar - II Edutech (2025):** Destaque por inovação tecnológica.
-* **Aprovações no XVIII CONINCE:** 4 trabalhos técnicos aceitos e apresentados em congresso científico.
-
----
-
-### 🎓 Formação Acadêmica
-
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** | Uneduvale (2023 - 2025)
-* **Técnico em Manutenção e Suporte em Informática** | ETEC (2021 - 2022)
-
----
-
-### 📜 Licenças e Certificados
-
-| Curso/Evento | Instituição | Competências |
-| :--- | :--- | :--- |
-| **Python: Avançando na Orientação a Objetos** | Alura | Backend, POO, APIs |
-| **Flask: Crie uma WebApp com Python** | Alura | Desenvolvimento Web, Rotas |
-| **Visão Computacional (OCR e OpenCV)** | Alura | Processamento de Imagens, IA |
-| **DevOps: Tráfego Seguro e Comunicação Web** | Alura | Segurança, Infraestrutura |
-
----
-### 📊 Estatísticas do GitHub
-
-![Snake animation](https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-### 📫 Contato
-<div>
-  <a href="https://instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="mailto:dbrunobruno369@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/bruno-david-martins-906781222" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/bruno-david-martins-906781222" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:dbrunobruno369@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://instagram.com/" target="_blank">
+      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </p>
 </div>
 
-*"Foco em otimização de performance e boas práticas."*
+---
 
+### 👨‍💻 Sobre Mim
+
+Sou um entusiasta da tecnologia cursando **Análise e Desenvolvimento de Sistemas**, com **mais de 3 anos de prática** criando soluções reais.
+Meu foco não é apenas "fazer funcionar", mas criar arquiteturas **performáticas e seguras**. Tenho paixão por resolver problemas complexos, desde a otimização de uma query SQL até a arquitetura de microsserviços.
+
+---
+
+### 🛠️ Tech Stack & Ferramentas
+
+<div align="center">
+
+**Back-end Core**<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="45" height="45"/>
+
+**Front-end & Design**<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="45" height="45"/>
+
+**DevOps & Tools**<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45"/>
+
+</div>
+
+---
+
+### 🏆 Sala de Troféus & Reconhecimentos
+
+Aqui estão algumas das minhas conquistas mais recentes que validam minha dedicação técnica:
+
+* 🥈 **2º Lugar - Hackaton 2024:** Desenvolvimento de solução Web Full Stack completa sob pressão.
+* 🥉 **3º Lugar - II Edutech (2025):** Prêmio de inovação tecnológica.
+* 📜 **XVIII CONINCE:** 4 artigos técnicos aprovados e apresentados em congresso científico (Foco em Automação e Integração).
+
+---
+
+### 🚀 Projetos de Impacto
+
+| Projeto | O que ele resolve? (Tech Specs) | Stack |
+| :--- | :--- | :--- |
+| **ContGest** | ERP robusto para escritórios de contabilidade. Possui gestão financeira e relatórios dinâmicos. | 🐍 Flask, ⚛️ React, 🐘 PostgreSQL |
+| **MedControl** | App mobile crítico para saúde. Gerencia estoque de medicamentos e dependentes. | 📱 React Native, 🐍 Flask, 🐬 MySQL |
+| **Extrator Domínio** | Automação B2B que lê e manipula arquivos TXT complexos para importação em ERPs. | 🐍 Python, Regex, File Manipulation |
+| **Translation Middleware** | Microsserviço escalável para tradução e integração de APIs multilíngues via Docker. | 🐍 Python, Docker, REST API |
+
+---
+
+### 🎓 Formação & Certificações
+
+<table align="center">
+  <tr>
+    <td align="center"><b>Graduação</b></td>
+    <td align="center"><b>Especializações (Alura)</b></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      🎓 <b>Análise e Des. de Sistemas</b><br/>
+      Uneduvale (2023 - 2025)<br/><br/>
+      🎓 <b>Técnico em Informática</b><br/>
+      ETEC (2021 - 2022)
+    </td>
+    <td valign="top">
+      ✔️ <b>Visão Computacional:</b> OCR e OpenCV<br/>
+      ✔️ <b>DevOps:</b> Segurança e Infra Web<br/>
+      ✔️ <b>Backend Expert:</b> Python Avançado e APIs<br/>
+      ✔️ <b>Gestão Ágil:</b> Scrum e Projetos
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <h3>🧩 Minhas Contribuições (Snake Game)</h3>
+  <img src="https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+</div>
+
+<div align="center">
+  <br/>
+  <i>"Código limpo, commits constantes e café sempre quente." ☕</i>
+</div>
