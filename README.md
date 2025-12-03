@@ -62,6 +62,7 @@ Aqui estão algumas das minhas conquistas mais recentes que validam minha dedica
 | :--- | :--- | :--- |
 | **ContGest** | ERP robusto para escritórios de contabilidade. Possui gestão financeira e relatórios dinâmicos. | 🐍 Flask, ⚛️ React, 🐘 PostgreSQL |
 | **MedControl** | App mobile crítico para saúde. Gerencia estoque de medicamentos e dependentes. | 📱 React Native, 🐍 Flask, 🐬 MySQL |
+| **OfficePro** | Simulador e sistema de gestão empresarial. |🐍 Flask, ⚛️ React, Tailwind |
 | **Extrator Domínio** | Automação B2B que lê e manipula arquivos TXT complexos para importação em ERPs. | 🐍 Python, Regex, File Manipulation |
 | **Translation Middleware** | Microsserviço escalável para tradução e integração de APIs multilíngues via Docker. | 🐍 Python, Docker, REST API |
 
