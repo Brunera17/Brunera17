@@ -50,7 +50,6 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 | **Flask: Crie uma WebApp com Python** | Alura | Desenvolvimento Web, Rotas |
 | **Visão Computacional (OCR e OpenCV)** | Alura | Processamento de Imagens, IA |
 | **DevOps: Tráfego Seguro e Comunicação Web** | Alura | Segurança, Infraestrutura |
-| **Metodologias Ágeis (XVIII CONINCE)** | Event3 | Scrum, Gestão de Projetos |
 
 ---
 ### 📊 Estatísticas do GitHub
