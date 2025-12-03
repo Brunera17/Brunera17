@@ -49,7 +49,8 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 
 *"Foco em otimização de performance e boas práticas."*
 
-
+---
+---
 
 # 👋 Hello! I'm Bruno David Martins ("Brunera")
 
