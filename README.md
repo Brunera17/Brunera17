@@ -38,13 +38,7 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 
 ### 📊 Estatísticas do GitHub
 
-### 📊 Estatísticas e Constância
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Brunera17&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunera17&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
-</div>
+![Snake animation](https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake.svg)
 
 ---
 ### 📫 Contato
