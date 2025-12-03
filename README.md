@@ -40,6 +40,13 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 
 ![Snake animation](https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg)
 
+<div align="center">
+  <a href="https://github.com/Brunera17">
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunera17&layout=compact&langs_count=7&theme=dracula"/>
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+</div>
+
 ---
 ### 📫 Contato
 <div>
