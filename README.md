@@ -43,7 +43,7 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 ---
 
 ### 📫 Contato
-<div align="center">
+<div>
   <a href="https://instagram.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
