@@ -38,8 +38,13 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 
 ### 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunera17&layout=compact&theme=dracula)
+### 📊 Estatísticas e Constância
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Brunera17&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunera17&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+</div>
 
 ---
 ### 📫 Contato
