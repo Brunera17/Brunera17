@@ -43,9 +43,11 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 ---
 
 ### 📫 Contato
-
-* 💼 www.linkedin.com/in/bruno-david-martins-906781222
-* 📧 dbrunobruno369@gmail.com
+<div>
+<a href="https://instagram.com/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "dbrunobruno369@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/bruno-david-martins-906781222" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 *"Foco em otimização de performance e boas práticas."*
 
