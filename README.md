@@ -7,7 +7,8 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 
 ---
 
-### 🛠️ Tech Stack
+### Ferramentas e Tecnologias
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
 
 **Back-end:**
 * 🐍 **Python** (Foco principal em **Flask**)
