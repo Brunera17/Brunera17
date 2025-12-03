@@ -38,7 +38,7 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes, com mais de **3
 
 ### 📊 Estatísticas do GitHub
 
-![Snake animation](https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 ### 📫 Contato
