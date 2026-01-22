@@ -14,7 +14,7 @@
     <a href="mailto:dbrunobruno369@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
     </a>
-    <a href="https://www.instagram.com/brunomartins.dev?igsh=MWd3NnN0ZjdqbzV2dg==" target="_blank">
+    <a href="https://www.instagram.com/brunomartins.dev?igsh=YTFtcHducHlmc2Fq" target="_blank">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
     </a>
   </p>
