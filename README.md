@@ -43,6 +43,22 @@ Meu foco não é apenas "fazer funcionar", mas criar arquiteturas **performátic
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="45" height="45"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="45" height="45"/>
 
 </div>
+---
+
+### 👨‍🏫 Experiência Profissional
+
+* **Professor do Novo Ensino Médio**  
+  Ensino de **Lógica de Programação**, **Redes de Computadores**,  
+  **Desenvolvimento de Software** e **Metodologias Ágeis**,  
+  com foco em prática, raciocínio lógico e preparação para o mercado.
+* **Responsável pelo Setor de Automação** — Domingos Contabilidade  
+  Atuo na liderança do setor de automação, focado no **aprimoramento e otimização de processos internos**,  
+  desenvolvimento de **rotinas automatizadas**, redução de tarefas manuais e aumento de produtividade  
+  por meio de **scripts, integrações de sistemas e soluções personalizadas**.
+* **Experiência em Deploy de Sites e Ferramentas Web**  
+  Atuação em deploy e manutenção de aplicações web em produção,  
+  envolvendo configuração de servidores, containers, pipelines de versionamento  
+  e integração contínua para garantir estabilidade e escalabilidade.
 
 ---
 
@@ -53,7 +69,6 @@ Aqui estão algumas das minhas conquistas mais recentes que validam minha dedica
 * 🥈 **2º Lugar - Hackaton 2024:** Desenvolvimento de solução Web Full Stack completa sob pressão.
 * 🥉 **3º Lugar - II Edutech (2025):** Prêmio de inovação tecnológica.
 * 📜 **XVIII CONINCE:** 4 artigos técnicos aprovados e apresentados em congresso científico (Foco em Automação e Integração).
-
 ---
 
 ### 🚀 Projetos de Impacto
