@@ -24,7 +24,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um entusiasta da tecnologia cursando **Análise e Desenvolvimento de Sistemas**, com **mais de 3 anos de prática** criando soluções reais.
+Sou um entusiasta da tecnologia formado em **Análise e Desenvolvimento de Sistemas**, com **mais de 3 anos de prática** criando soluções reais.
 Meu foco não é apenas "fazer funcionar", mas criar arquiteturas **performáticas e seguras**. Tenho paixão por resolver problemas complexos, desde a otimização de uma query SQL até a arquitetura de microsserviços.
 
 ---
