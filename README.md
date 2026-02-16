@@ -4,22 +4,21 @@
 
   <img 
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+React+%7C+Automations;Clean+Code+%26+Scalable+Architecture"
-    alt="Typing Animation"
   />
 
   <p>
     <b>🚀 Desenvolvedor Full Stack | Python & React</b><br/>
-    <i>"Transformando café em código eficiente e escalável."</i>
+    <i>Especialista em automações, integrações e sistemas escaláveis.</i>
   </p>
 
   <p>
-    <a href="https://www.linkedin.com/in/bruno-david-martins-906781222" target="_blank">
+    <a href="https://www.linkedin.com/in/bruno-david-martins-906781222">
       <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" />
     </a>
     <a href="mailto:dbrunobruno369@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/brunomartins.dev" target="_blank">
+    <a href="https://www.instagram.com/brunomartins.dev">
       <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" />
     </a>
   </p>
@@ -27,52 +26,66 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+## 👨‍💻 Sobre Mim
 
-Sou um entusiasta da tecnologia formado em **Análise e Desenvolvimento de Sistemas**, com **mais de 3 anos de prática** criando soluções reais.  
-Meu foco vai além de “fazer funcionar”: busco arquiteturas **performáticas, seguras e escaláveis**, com forte atuação em **automação, backend e integração de sistemas**.
+Desenvolvedor com **+3 anos construindo soluções reais**, atuando principalmente com:
+
+- 🔹 Automação de processos empresariais
+- 🔹 Integração entre sistemas e APIs
+- 🔹 Arquitetura backend escalável
+- 🔹 Deploy e infraestrutura com containers
+
+Tenho experiência prática liderando setor de automação, desenvolvendo soluções que reduzem trabalho manual e aumentam produtividade.
 
 ---
 
-### 🛠️ Tech Stack & Ferramentas
+## 🏆 Destaques Técnicos
+
+- 🥈 2º Lugar – Hackathon 2024 (Web Full Stack sob pressão)
+- 🥉 3º Lugar – II Edutech 2025 (Inovação tecnológica)
+- 📜 4 artigos aprovados no XVIII CONINCE (Automação e Integração)
+- 👨‍🏫 Professor de Lógica de Programação e Desenvolvimento de Software
+
+---
+
+## 🚀 Projetos de Impacto
+
+| Projeto | Descrição | Stack |
+|----------|------------|--------|
+| **ContGest** | ERP para escritórios contábeis com relatórios dinâmicos | Flask, React, PostgreSQL |
+| **MedControl** | App mobile para gestão de medicamentos | React Native, Flask, MySQL |
+| **OfficePro** | Sistema de gestão empresarial | Flask, React, Tailwind |
+| **Extrator Domínio** | Automação B2B para manipulação de arquivos ERP | Python, Regex |
+| **Translation Middleware** | Microsserviço de tradução e integração | Python, Docker |
+
+---
+
+## 🛠️ Stack Principal
 
 <div align="center">
 
-**Back-end Core**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="45"/>
+### Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
 
-<br/>
+### Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
 
-**Front-end & Design**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-
-<br/>
-
-**DevOps & Tools**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+### Infra & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
 
 </div>
 
 ---
 
-### 📊 Atividade & Contribuições
+## 📊 Atividade
 
 <div align="center">
 
@@ -81,7 +94,7 @@ Meu foco vai além de “fazer funcionar”: busco arquiteturas **performáticas
   width="100%"
 />
 
-<br/><br/>
+<br/>
 
 <img 
   src="https://streak-stats.demolab.com?user=Brunera17&theme=tokyonight"
@@ -93,5 +106,5 @@ Meu foco vai além de “fazer funcionar”: busco arquiteturas **performáticas
 ---
 
 <div align="center">
-  <i>"Código limpo, commits constantes e café sempre quente." ☕</i>
+  <i>"Código limpo. Arquitetura sólida. Resultados reais." ☕</i>
 </div>
