@@ -124,9 +124,8 @@ Aqui estão algumas das minhas conquistas mais recentes que validam minha dedica
 
   <br/><br/>
 
-  <img 
-    src="https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg" 
-    width="100%"
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
   />
 </div>
 
