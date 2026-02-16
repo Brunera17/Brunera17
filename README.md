@@ -112,6 +112,7 @@ Aqui estão algumas das minhas conquistas mais recentes que validam minha dedica
 <div align="center">
   <h3>🧩 Minhas Contribuições (Snake Game)</h3>
   <img src="https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Brunera17&theme=dark" />
 </div>
 
 <div align="center">
