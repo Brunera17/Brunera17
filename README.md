@@ -114,8 +114,15 @@ Aqui estão algumas das minhas conquistas mais recentes que validam minha dedica
   <img src="https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Brunera17&theme=dark" />
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=tokyonight&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=tokyonight&cache_seconds=1&v=2026" 
+    height="180"
   />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Brunera17&theme=darkhub&no-frame=true&margin-w=15&cache_seconds=1&v=2026" 
+    height="180"
+  />
+
+
 
 </div>
 
