@@ -113,8 +113,8 @@ Aqui estão algumas das minhas conquistas mais recentes que validam minha dedica
   <h3>📊 Atividade & Estatísticas</h3>
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=tokyonight&cache_seconds=86400" 
-    height="170"
+    src="https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg" 
+    width="100%"
   />
 
   <img 
