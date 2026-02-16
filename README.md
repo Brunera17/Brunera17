@@ -124,10 +124,14 @@ Aqui estão algumas das minhas conquistas mais recentes que validam minha dedica
 
   <br/><br/>
 
-  <img 
-    src="https://streak-stats.demolab.com?user=Brunera17&theme=tokyonight"
-    height="170"
-  />
+</div>
+<div align="center">
+
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+React+%7C+Automations;Clean+Code+%26+Scalable+Architecture"
+  alt="Typing Animation"
+/>
+
 </div>
 
 <div align="center">
