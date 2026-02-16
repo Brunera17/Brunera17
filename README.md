@@ -1,110 +1,66 @@
+# Bruno David Martins (Brunera)
+
 <div align="center">
-  <h1>👋 Olá, sou Bruno David Martins!</h1>
-  <h3><i>Também conhecido como "Brunera"</i></h3>
-
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+React+%7C+Automations;Clean+Code+%26+Scalable+Architecture"
-  />
-
-  <p>
-    <b>🚀 Desenvolvedor Full Stack | Python & React</b><br/>
-    <i>Especialista em automações, integrações e sistemas escaláveis.</i>
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/bruno-david-martins-906781222">
-      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:dbrunobruno369@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://www.instagram.com/brunomartins.dev">
-      <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Python+%7C+React+%7C+Automations;Clean+Code+%26+Scalable+Architecture"/>
 </div>
 
----
+<div align="center">
+  <strong>🚀 Desenvolvedor Full Stack | Python & React</strong><br>
+  <em>Especialista em automações, integrações e sistemas escaláveis.</em>
+</div>
 
-## 👨‍💻 Sobre Mim
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-david-martins-906781222)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dbrunobruno369@gmail.com)
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/brunomartins.dev)
+</div>
 
-Desenvolvedor com **+3 anos construindo soluções reais**, atuando principalmente com:
+## Sobre Mim
 
-- 🔹 Automação de processos empresariais
-- 🔹 Integração entre sistemas e APIs
-- 🔹 Arquitetura backend escalável
-- 🔹 Deploy e infraestrutura com containers
+Desenvolvedor Full Stack com +3 anos de experiência em automação de processos, integrações de APIs e arquiteturas escaláveis. Formado em Análise e Desenvolvimento de Sistemas (Uneduvale, 2023-2025). Lidero setor de automação na Domingos Contabilidade e ensino Lógica de Programação.[web:1][web:2]
 
-Tenho experiência prática liderando setor de automação, desenvolvendo soluções que reduzem trabalho manual e aumentam produtividade.
+- 🌱 Foco: Clean Code, microsserviços e DevOps
+- 📫 brunera17 no GitHub
+- ☕ "Código limpo. Arquitetura sólida. Resultados reais."
 
----
+## Stack Técnica
 
-## 🏆 Destaques Técnicos
+<div align="center">
 
-- 🥈 2º Lugar – Hackathon 2024 (Web Full Stack sob pressão)
-- 🥉 3º Lugar – II Edutech 2025 (Inovação tecnológica)
-- 📜 4 artigos aprovados no XVIII CONINCE (Automação e Integração)
-- 👨‍🏫 Professor de Lógica de Programação e Desenvolvimento de Software
+| Backend | Frontend | DevOps |
+|---------|----------|--------|
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg) Python | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg) React | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg) Docker |
+| ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg) Flask | ![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg) React Native | ![Google Cloud](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg) GCP |
+| ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg) Node.js | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg) TS | ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg) Linux |
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg) Java | ![Tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg) Tailwind | |
 
----
+</div>
 
-## 🚀 Projetos de Impacto
+## Projetos em Destaque
 
 | Projeto | Descrição | Stack |
-|----------|------------|--------|
-| **ContGest** | ERP para escritórios contábeis com relatórios dinâmicos | Flask, React, PostgreSQL |
-| **MedControl** | App mobile para gestão de medicamentos | React Native, Flask, MySQL |
+|---------|-----------|-------|
+| **ContGest** | ERP para contabilidade com relatórios dinâmicos | Flask, React, PostgreSQL |
+| **MedControl** | Gestão de medicamentos (app mobile) | React Native, Flask, MySQL |
 | **OfficePro** | Sistema de gestão empresarial | Flask, React, Tailwind |
-| **Extrator Domínio** | Automação B2B para manipulação de arquivos ERP | Python, Regex |
-| **Translation Middleware** | Microsserviço de tradução e integração | Python, Docker |
+| **Extrator Domínio** | Automação B2B para arquivos ERP | Python, Regex |
+| **Translation Middleware** | Microsserviço de tradução via Docker | Python, Docker, REST |
 
----
+## Conquistas
 
-## 🛠️ Stack Principal
+- 🥈 2º Lugar – Hackathon 2024 (Full Stack sob pressão)
+- 🥉 3º Lugar – II Edutech 2025 (Inovação)
+- 📜 4 artigos no XVIII CONINCE (Automação)
+- 👨‍🏫 Professor: Lógica, Desenvolvimento e Ágil[web:1][web:2]
+
+## Atividade GitHub
 
 <div align="center">
-
-### Backend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
-
-### Frontend
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
-
-### Infra & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Brunera17&theme=tokyonight&hide_border=true" height="170"/>
+  <br>
+  <img src="https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
----
-
-## 📊 Atividade
-
 <div align="center">
-
-<img 
-  src="https://github.com/Brunera17/Brunera17/blob/output/github-contribution-grid-snake-dark.svg"
-  width="100%"
-/>
-
-<br/>
-
-<img 
-  src="https://streak-stats.demolab.com?user=Brunera17&theme=tokyonight"
-  height="170"
-/>
-
-</div>
-
----
-
-<div align="center">
-  <i>"Código limpo. Arquitetura sólida. Resultados reais." ☕</i>
+  <img src="https://komarev.com/ghpvc/?username=Brunera17&color=00F7FF&style=flat-square" alt="Visitors"/>
 </div>
