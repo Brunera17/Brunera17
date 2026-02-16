@@ -125,7 +125,7 @@ Aqui estão algumas das minhas conquistas mais recentes que validam minha dedica
   <br/><br/>
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"
+    src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=radical"
   />
 </div>
 
