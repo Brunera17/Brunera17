@@ -124,8 +124,9 @@ Aqui estão algumas das minhas conquistas mais recentes que validam minha dedica
 
   <br/><br/>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=radical](https://streak-stats.demolab.com?user=Brunera17&theme=tokyonight"
+  <img 
+    src="https://streak-stats.demolab.com?user=Brunera17&theme=tokyonight"
+    height="170"
   />
 </div>
 
