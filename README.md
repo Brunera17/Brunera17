@@ -128,17 +128,9 @@ Aqui estão algumas das minhas conquistas mais recentes que validam minha dedica
     src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=radical"
   />
 </div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true" />
-</picture>
+<div>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Bruno17&show_icons=true&theme=dracula$include_all_commits=true&count_private=true" />
+</div>
 
 <div align="center">
   <br/>
