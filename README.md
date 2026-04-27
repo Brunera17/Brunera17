@@ -1,7 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/Brunera17.png" width="120" height="120" style="border-radius: 50%"/>
-<br/><br/>
+<!-- Substitua a linha abaixo pela URL da sua foto quando tiver -->
+<!-- <img src="SUA_FOTO_URL" width="120" height="120" style="border-radius: 50%"/> -->
+<!-- <br/><br/> -->
 
 <h1>Bruno David Martins</h1>
 <h3><i>Brunera — Full Stack Developer | Python & React</i></h3>
@@ -181,11 +182,27 @@ Experiência em deploy e manutenção de aplicações em produção: configuraç
 
 <br/>
 
-**Especializações (Alura)**
-- ✅ Visão Computacional: OCR e OpenCV
-- ✅ DevOps: Segurança e Infraestrutura Web
-- ✅ Backend Expert: Python Avançado e APIs
-- ✅ Gestão Ágil: Scrum e Gerenciamento de Projetos
+**Certificados Alura — Python & Back-end**
+- ✅ [Trilha: Começando com Flask — framework web de Python](https://cursos.alura.com.br/degree/certificate/b79ed3d1-9d15-4130-831d-07e6e30f6c04?lang=pt_BR) — 21h
+- ✅ [Trilha: Python com Orientação a Objetos](https://cursos.alura.com.br/degree/certificate/6839dedc-2089-453a-817f-e0ead46fd07d?lang=pt_BR) — 25h
+- ✅ [Flask: avançando no desenvolvimento web com Python](https://cursos.alura.com.br/certificate/3263773e-c7af-4600-9526-3798c2bdac68?lang=pt_BR) — 10h
+- ✅ [Python: avance na Orientação a Objetos e consuma API](https://cursos.alura.com.br/certificate/022d6162-d92c-4b09-902f-e404b881e08e?lang=pt_BR) — 8h
+
+<br/>
+
+**Certificados Alura — Front-end**
+- ✅ [React: desenvolvendo com JavaScript](https://cursos.alura.com.br/certificate/8d647853-e78f-4515-8e5f-13639c50e168?lang=pt_BR) — 14h
+- ✅ [JavaScript para Web: Crie páginas dinâmicas](https://cursos.alura.com.br/certificate/6171b861-6332-4f26-8fed-49a06c8e9645?lang=pt_BR) — 10h
+- ✅ [HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags](https://cursos.alura.com.br/certificate/95d6d24c-3f2c-434f-b5de-5732e321ac77?lang=pt_BR) — 8h
+- ✅ [HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/certificate/6e683321-2d5b-4e52-992b-0f04ea6a3d56?lang=pt_BR) — 8h
+
+<br/>
+
+**Certificados Alura — DevOps & IA**
+- ✅ [Visão Computacional: reconhecimento de texto com OCR e OpenCV](https://cursos.alura.com.br/certificate/f6bfa730-5e41-45d6-b6bb-d0f2f6e1d78e?lang=pt_BR) — 10h
+- ✅ [DevOps: explorando conceitos, comandos e scripts no Linux CLI](https://cursos.alura.com.br/certificate/b1671601-51c6-4491-b5aa-c7e8435f0450?lang=pt_BR) — 8h
+- ✅ [DevOps: trabalhando com tráfego seguro em comunicações web](https://cursos.alura.com.br/certificate/6fb8bcb8-6fb9-416d-bdd6-5c62ae7440d7?lang=pt_BR) — 6h
+- ✅ [Git e GitHub: compartilhando e colaborando em projetos](https://cursos.alura.com.br/certificate/4e9c9474-2499-497f-b1af-f18541ca7338?lang=pt_BR) — 8h
 
 <br/>
 
