@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00F7FF&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+sou+Bruno+David+Martins+%F0%9F%91%8B;Full+Stack+Developer+%7C+Python+%26+React;Transformando+caf%C3%A9+em+c%C3%B3digo+escalável+%E2%98%95" alt="Typing Animation" />
+<!-- Substitua a linha abaixo pela URL da sua foto quando tiver -->
+<!-- <img src="SUA_FOTO_URL" width="120" height="120" style="border-radius: 50%"/> -->
+<!-- <br/><br/> -->
+
+<h1>Bruno David Martins</h1>
+<h3><i>Brunera — Full Stack Developer | Python & React</i></h3>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🟢 Aberto a oportunidades, freelances e colaborações-2D9E5F?style=for-the-badge&logoColor=white"/>
 
 <br/><br/>
 
@@ -28,13 +37,15 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Bruno David Martins**, desenvolvedor Full Stack com formação em **Análise e Desenvolvimento de Sistemas** e **mais de 4 anos** criando soluções que vão além do "fazer funcionar".
+Sou **Bruno David Martins**, desenvolvedor Full Stack com formação em **Análise e Desenvolvimento de Sistemas** e **mais de 4 anos** construindo sistemas que resolvem problemas reais.
 
-Meu foco é construir sistemas **performáticos, seguros e escaláveis** — desde a otimização de uma query SQL até a arquitetura de microsserviços. Atuo como professor, líder técnico de automação e desenvolvedor de produtos reais que já estão em uso.
+Já entreguei um **ERP personalizado em produção atendendo 14 funcionários**, e minhas automações na área contábil eliminaram **mais de 50 horas de trabalho manual por mês** — e ainda estamos no começo. Atuo como professor, líder técnico de automação e desenvolvedor de soluções que já fazem diferença no dia a dia de quem usa.
+
+Meu foco está em arquiteturas **performáticas e seguras** — da otimização de queries SQL à orquestração de microsserviços com Docker.
 
 <br/>
 
-> *"Código limpo, commits constantes e café sempre quente."* ☕
+> *"Todo processo manual é um problema esperando para ser automatizado."* ⚙️
 
 <br/>
 
@@ -97,7 +108,7 @@ Ministro aulas de **Lógica de Programação**, **Redes de Computadores**, **Des
 
 ### ⚙️ Líder de Automação — Domingos Contabilidade
 
-Responsável por liderar o setor de automação com foco em **otimização de processos internos**, desenvolvimento de **rotinas automatizadas**, integração de sistemas e eliminação de tarefas manuais repetitivas — aumentando produtividade com scripts e soluções personalizadas.
+Liderança do setor de automação com foco em processos do sistema **Domínio**. Já eliminamos **+50 horas de trabalho manual por mês** com rotinas automatizadas, integração de sistemas e scripts personalizados — e ainda estamos expandindo.
 
 <br/>
 
@@ -115,13 +126,13 @@ Experiência em deploy e manutenção de aplicações em produção: configuraç
 
 <br/>
 
-| Projeto | Problema Resolvido | Stack |
-|:---|:---|:---|
-| **ContGest** | ERP completo para escritórios contábeis — gestão financeira, clientes e relatórios dinâmicos | Flask · React · PostgreSQL |
-| **MedControl** | App mobile para saúde — controle de estoque de medicamentos e gestão de dependentes | React Native · Flask · MySQL |
-| **OfficePro** | Simulador e sistema de gestão empresarial com dashboard interativo | Flask · React · Tailwind |
-| **Extrator Domínio** | Automação B2B que processa arquivos TXT complexos para importação em ERPs | Python · Regex · File Manipulation |
-| **Translation Middleware** | Microsserviço escalável para tradução e integração de APIs multilíngues | Python · Docker · REST API |
+| Projeto | Problema Resolvido | Stack | |
+|:---|:---|:---|:---:|
+| **ContGest** | ERP personalizado em produção — gestão financeira, clientes e relatórios dinâmicos para 14 usuários | Flask · React · PostgreSQL | 🔒 Privado |
+| **MedControl** | App mobile para saúde — controle de estoque de medicamentos e gestão de dependentes | React Native · Flask · MySQL | [🔗 Ver repo](https://github.com/Brunera17/MedControl) |
+| **OfficePro** | Simulador e sistema de gestão empresarial com dashboard interativo | Flask · React · Tailwind | 🔒 Privado |
+| **Extrator Domínio** | Automação B2B que processa arquivos TXT complexos para importação em ERPs | Python · Regex · File I/O | 🔒 Privado |
+| **Translation Middleware** | Microsserviço escalável para tradução e integração de APIs multilíngues | Python · Docker · REST API | 🔒 Privado |
 
 <br/>
 
