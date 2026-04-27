@@ -139,6 +139,22 @@ Experiência em deploy e manutenção de aplicações em produção: configuraç
 
 <br/>
 
+## 📚 Projetos de Estudo — Alura
+
+<br/>
+
+| Projeto | Descrição | Stack | |
+|:---|:---|:---|:---:|
+| **Organo** | Gerador de organogramas interativos — visualização de hierarquias de equipes | JavaScript | [🔗 Ver repo](https://github.com/Brunera17/organo) |
+| **text-recognize** | Reconhecimento e extração de texto em imagens usando OCR e visão computacional | Python · Jupyter · OpenCV | [🔗 Ver repo](https://github.com/Brunera17/text-recognize) |
+| **Jogoteca** | Biblioteca pessoal de jogos — cadastro, listagem e gerenciamento de coleção | Python | [🔗 Ver repo](https://github.com/Brunera17/jogoteca) |
+
+<br/>
+
+---
+
+<br/>
+
 ## 🏆 Conquistas & Reconhecimentos
 
 <br/>
