@@ -1,8 +1,7 @@
 <div align="center">
 
-<!-- Substitua a linha abaixo pela URL da sua foto quando tiver -->
-<!-- <img src="SUA_FOTO_URL" width="120" height="120" style="border-radius: 50%"/> -->
-<!-- <br/><br/> -->
+<img src="https://github.com/Brunera17.png" width="120" height="120" style="border-radius: 50%"/>
+<br/><br/>
 
 <h1>Bruno David Martins</h1>
 <h3><i>Brunera — Full Stack Developer | Python & React</i></h3>
