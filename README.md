@@ -27,7 +27,9 @@
 <a href="https://github.com/Brunera17" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=Brunera17&label=Visualizações%20do%20perfil&color=2D9E5F&style=flat" alt="Visitor Badge"/>
 
 </div>
@@ -134,7 +136,7 @@ class Bruno:
   │                     │                     │
   ▼                     ▼                     ▼
 Full Stack Dev      Líder de Automação    Professor de
-Christino Cont.      Domingos Assessoria     Programação & IA
+Christino Cont.      Domingos Cont.        Programação & IA
 Flask · SQL · Deploy  +50h/mês economizadas  Escola Abilio
 Heroku/GCP/Linux      Sistema Domínio        Cel. João Cruz
 ```
@@ -147,7 +149,7 @@ Heroku/GCP/Linux      Sistema Domínio        Cel. João Cruz
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center">⚙️</td>
-<td><b>Líder de Automação — Domingos Assessoria</b><br/>Liderança do setor de automação com foco em processos do sistema <b>Domínio</b>. Já eliminamos <b>+50 horas de trabalho manual por mês</b> com rotinas automatizadas, integração de sistemas e scripts personalizados — e ainda estamos expandindo.</td>
+<td><b>Líder de Automação — Domingos Contabilidade</b><br/>Liderança do setor de automação com foco em processos do sistema <b>Domínio</b>. Já eliminamos <b>+50 horas de trabalho manual por mês</b> com rotinas automatizadas, integração de sistemas e scripts personalizados — e ainda estamos expandindo.</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
@@ -275,13 +277,12 @@ Heroku/GCP/Linux      Sistema Domínio        Cel. João Cruz
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Brunera17&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Brunera17&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunera17&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brunera17&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Brunera17&theme=tokyo-night&hide_border=true&height=170" width="47%" alt="Activity Graph"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Brunera17&theme=tokyonight&hide_border=true&cache_seconds=86400" height="170" alt="GitHub Streak"/>
 
 </div>
 
@@ -300,7 +301,5 @@ Estou sempre aberto a novos desafios, colaborações e projetos que façam difer
 **📩 dbrunobruno369@gmail.com**
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
