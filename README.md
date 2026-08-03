@@ -277,7 +277,7 @@ Heroku/GCP/Linux      Sistema Domínio        Cel. João Cruz
 
 <br/><br/>
 
-<img src="https://github-readme-stats-nu-lyart-67.vercel.app/api?username=Brunera17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-nu-lyart-67.vercel.app/api?username=Brunera17&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
 <img src="https://github-readme-stats-nu-lyart-67.vercel.app/api/top-langs/?username=Brunera17&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
 <br/><br/>
