@@ -27,7 +27,7 @@
 <a href="https://github.com/Brunera17" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+<br/><br/>
 <img src="https://komarev.com/ghpvc/?username=Brunera17&label=Visualizações%20do%20perfil&color=2D9E5F&style=flat" alt="Visitor Badge"/>
 
 </div>
