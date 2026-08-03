@@ -19,6 +19,15 @@ Tenho experiência entregando software em produção de ponta a ponta — do mod
 
 <br/>
 
+## GitHub
+
+<div align="center">
+<img src="https://github-readme-stats-nu-lyart-67.vercel.app/api?username=Brunera17&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-nu-lyart-67.vercel.app/api/top-langs/?username=Brunera17&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+</div>
+
+<br/>
+
 ## Stack Técnica
 
 | Categoria | Tecnologias |
@@ -107,15 +116,6 @@ Aulas de Lógica de Programação, Redes de Computadores, Desenvolvimento de Sof
 - 2º Lugar — Hackathon 2024 (solução Web Full Stack completa sob tempo real)
 - 3º Lugar — II Edutech 2025 (inovação tecnológica em educação)
 - 4 artigos técnicos aprovados no XVIII CONINCE — Automação e Integração de Sistemas
-
-<br/>
-
-## GitHub
-
-<div align="center">
-<img src="https://github-readme-stats-nu-lyart-67.vercel.app/api?username=Brunera17&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-nu-lyart-67.vercel.app/api/top-langs/?username=Brunera17&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</div>
 
 <br/>
 
