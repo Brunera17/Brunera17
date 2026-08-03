@@ -136,7 +136,7 @@ class Bruno:
   │                     │                     │
   ▼                     ▼                     ▼
 Full Stack Dev      Líder de Automação    Professor de
-Christino Cont.      Domingos Cont.        Programação & IA
+Christino Cont.      Domingos Assessoria     Programação & IA
 Flask · SQL · Deploy  +50h/mês economizadas  Escola Abilio
 Heroku/GCP/Linux      Sistema Domínio        Cel. João Cruz
 ```
@@ -149,7 +149,7 @@ Heroku/GCP/Linux      Sistema Domínio        Cel. João Cruz
 <tr><td colspan="2"><br/></td></tr>
 <tr>
 <td align="center">⚙️</td>
-<td><b>Líder de Automação — Domingos Contabilidade</b><br/>Liderança do setor de automação com foco em processos do sistema <b>Domínio</b>. Já eliminamos <b>+50 horas de trabalho manual por mês</b> com rotinas automatizadas, integração de sistemas e scripts personalizados — e ainda estamos expandindo.</td>
+<td><b>Líder de Automação — Domingos Assessoria</b><br/>Liderança do setor de automação com foco em processos do sistema <b>Domínio</b>. Já eliminamos <b>+50 horas de trabalho manual por mês</b> com rotinas automatizadas, integração de sistemas e scripts personalizados — e ainda estamos expandindo.</td>
 </tr>
 <tr><td colspan="2"><br/></td></tr>
 <tr>
