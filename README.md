@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bruno%20David%20Martins&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Python%20%26%20React&descAlignY=55&descSize=18"/>
+<img src="https://github.com/Brunera17.png" width="120" height="120" style="border-radius: 50%"/>
+<br/><br/>
+
+<h1>Bruno David Martins</h1>
+<h3><i>Brunera — Full Stack Developer | Python & React</i></h3>
 
 <br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=2D9E5F&center=true&vCenter=true&width=560&lines=Automatizando+processos+contábeis+desde+2022;Construindo+ERPs+em+produção+com+Flask+%2B+React;%2B50h%2Fmês+de+trabalho+manual+eliminadas;Professor+de+Lógica+de+Programação+e+IA;Sempre+aberto+a+novos+desafios+%F0%9F%9A%80"/>
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/🟢 Aberto a oportunidades, freelances e colaborações-2D9E5F?style=for-the-badge&logoColor=white"/>
 
@@ -171,6 +171,7 @@ Heroku/GCP/Linux      Sistema Domínio        Cel. João Cruz
 | Projeto | Problema Resolvido | Stack | |
 |:---|:---|:---|:---:|
 | **ContGest** | ERP personalizado em produção — gestão de clientes PF/PJ, serviços, propostas e ordens de serviço para escritórios de contabilidade, atendendo 14 usuários | Flask · React · PostgreSQL · SQLAlchemy | 🔒 Privado |
+| **Programa de Indicação** | Aplicação web em produção para a Domingos Assessoria — cada solicitação de indicação enviada é registrada automaticamente em uma planilha Google Sheets para contato posterior da equipe comercial | Web · Google Sheets API | [🔗 Acessar](https://indicacao.domingosassessoria.com.br/) |
 | **MedControl** | App mobile para saúde — controle de estoque de medicamentos e gestão de dependentes | React Native · Flask · MySQL | [🔗 Ver repo](https://github.com/Brunera17/MedControl) |
 | **OfficePro** | Simulador e sistema de gestão empresarial com dashboard interativo | Flask · React · Tailwind | 🔒 Privado |
 | **Extrator Domínio** | Automação B2B que processa arquivos TXT complexos para importação em ERPs | Python · Regex · File I/O | 🔒 Privado |
