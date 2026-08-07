@@ -71,7 +71,7 @@ Aulas de Lógica de Programação, Redes de Computadores, Desenvolvimento de Sof
 
 **Análise e Desenvolvimento de Sistemas** — Uneduvale *(2023–2025)*
 <br/>
-**Técnico em Informática** — ETEC *(2021–2022)*
+**Técnico em Manutenção e Suporte** — ETEC *(2021–2022)*
 
 <br/>
 
