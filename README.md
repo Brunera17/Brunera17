@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Desenvolvedor Full Stack com mais de 4 anos de experiência, formado em Análise e Desenvolvimento de Sistemas (Uneduvale). Atuo hoje como **Líder de Automação** na Domingos Contabilidade, onde já eliminei mais de 50 horas de trabalho manual por mês através de automações e integrações de sistemas, e como professor de Programação e IA em duas escolas.
+Desenvolvedor Full Stack com mais de 4 anos de experiência, formado em Análise e Desenvolvimento de Sistemas (Uneduvale). Atuo hoje no departamento fiscal da Domingos Contabilidade como **responsável pelas automações**, onde já eliminei mais de 50 horas de trabalho manual por mês através de automações e integrações de sistemas, e como professor de Programação e IA em duas escolas.
 
 Tenho experiência entregando software em produção de ponta a ponta — do modelo de dados ao deploy — com foco em back-end em Python/Flask, front-end em React/TypeScript, e bancos relacionais (PostgreSQL/MySQL). Já construí um ERP em produção atendendo 14 usuários e conduzido projetos de automação fiscal e contábil que estão em uso ativo.
 
@@ -42,11 +42,11 @@ Tenho experiência entregando software em produção de ponta a ponta — do mod
 
 ## Experiência
 
-**Líder de Automação** — Domingos Contabilidade
-Liderança do setor de automação com foco em processos do sistema Domínio: eliminação de +50h/mês de trabalho manual através de rotinas automatizadas e integração de sistemas.
+**Auxiliar Fiscal · Responsável pelas Automações** — Domingos Contabilidade
+Responsável pelas automações da empresa, com foco em processos do sistema Domínio: eliminação de +50h/mês de trabalho manual através de rotinas automatizadas e integração de sistemas.
 
-**Full Stack Developer** — Christino Contabilidade *(2022–2025)*
-Desenvolvimento de APIs REST em Flask, modelagem e otimização de banco de dados (SQL/MySQL/SQLite), e deploy de aplicações em produção (Heroku, Linux, GCP).
+**Assistente Fiscal e Contábil · Marketing e Desenvolvimento de Sistemas Internos** — Christino Contabilidade *(2022–2025)*
+Rotina fiscal e contábil e marketing do escritório, além do desenvolvimento dos sistemas internos: APIs REST em Flask, modelagem e otimização de banco de dados (SQL/MySQL/SQLite), e deploy de aplicações em produção (Heroku, Linux, GCP).
 
 **Professor de Programação e IA** — Escola Abilio / Escola Coronel João Cruz
 Aulas de Lógica de Programação, Redes de Computadores, Desenvolvimento de Software e Metodologias Ágeis, com foco em preparação prática para o mercado.
