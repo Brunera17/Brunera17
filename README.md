@@ -13,7 +13,7 @@
 
 ## Sobre
 
-Desenvolvedor Full Stack com mais de 4 anos de experiência, formado em Análise e Desenvolvimento de Sistemas (Uneduvale). Atuo hoje no departamento fiscal da Domingos Contabilidade como **responsável pelas automações**, onde já eliminei mais de 50 horas de trabalho manual por mês através de automações e integrações de sistemas, e como professor de Programação e IA em duas escolas.
+Desenvolvedor Full Stack com mais de 4 anos de experiência, formado em Análise e Desenvolvimento de Sistemas (Uneduvale). Atuo hoje no departamento fiscal da Domingos Contabilidade como **responsável pelas automações**, onde já eliminei mais de 50 horas de trabalho manual por semana através de automações e integrações de sistemas, e como professor de Programação e IA em duas escolas.
 
 Tenho experiência entregando software em produção de ponta a ponta — do modelo de dados ao deploy — com foco em back-end em Python/Flask, front-end em React/TypeScript, e bancos relacionais (PostgreSQL/MySQL). Já construí um ERP em produção atendendo 14 usuários e conduzido projetos de automação fiscal e contábil que estão em uso ativo.
 
@@ -43,7 +43,7 @@ Tenho experiência entregando software em produção de ponta a ponta — do mod
 ## Experiência
 
 **Auxiliar Fiscal · Responsável pelas Automações** — Domingos Contabilidade
-Responsável pelas automações da empresa, com foco em processos do sistema Domínio: eliminação de +50h/mês de trabalho manual através de rotinas automatizadas e integração de sistemas.
+Responsável pelas automações da empresa, com foco em processos do sistema Domínio: eliminação de +50h/semana de trabalho manual através de rotinas automatizadas e integração de sistemas.
 
 **Assistente Fiscal e Contábil · Marketing e Desenvolvimento de Sistemas Internos** — Christino Contabilidade *(2022–2025)*
 Rotina fiscal e contábil e marketing do escritório, além do desenvolvimento dos sistemas internos: APIs REST em Flask, modelagem e otimização de banco de dados (SQL/MySQL/SQLite), e deploy de aplicações em produção (Heroku, Linux, GCP).
