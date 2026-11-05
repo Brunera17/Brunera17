@@ -5,7 +5,7 @@
 
 **Full Stack Developer** — Python · Flask · React · TypeScript
 
-[LinkedIn](https://www.linkedin.com/in/bruno-david-martins-906781222) · [E-mail](mailto:dbrunobruno369@gmail.com) · [GitHub](https://github.com/Brunera17)
+**[🌐 Portfólio](https://brunera17.github.io)** · [LinkedIn](https://www.linkedin.com/in/bruno-david-martins-906781222) · [E-mail](mailto:dbrunobruno369@gmail.com) · [GitHub](https://github.com/Brunera17)
 
 </div>
 
